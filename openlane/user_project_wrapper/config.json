@@ -4,7 +4,8 @@
 	"STD_CELL_LIBRARY": "gf180mcu_fd_sc_mcu7t5v0",
 	"VERILOG_FILES": [
 		"dir::../../verilog/rtl/defines.v",
-		"dir::../../verilog/rtl/user_project_wrapper.v"
+		"dir::../../verilog/rtl/user_project_wrapper.v",
+		"dir::../../verilog/rtl/timer.v"
 	],
 	"CLOCK_PORT": "wb_clk_i",
 	"CLOCK_NET": "mprj.clk",
